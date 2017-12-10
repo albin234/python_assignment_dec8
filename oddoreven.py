@@ -1,4 +1,4 @@
-def checker():
+def check():
     input_num=int(input('enter any number:'))
 
     if input_num%2==0:
@@ -6,6 +6,6 @@ def checker():
     else:
         print(input_num,"is ODD")
 
-checker()
+check()
 
 0
